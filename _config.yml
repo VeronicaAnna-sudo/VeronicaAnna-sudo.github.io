@@ -1,12 +1,12 @@
 # Site Settings
 lang: en
-title: Bulma Clean Theme
+title: Akatsu Anri
 tagline: Bulma Clean Theme
 email: your-email@domain.com
 description: >
-  The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
+  投身万物中神的爱恨与空虚。
 baseurl: "/bulma-clean-theme"
-url: "https://www.csrhymes.com"
+url: "https://VeronicaAnna-sudo.github.io"
 permalink: pretty
 #favicon: /path/to/favicon.png
 gh_sponsor: chrisrhymes
